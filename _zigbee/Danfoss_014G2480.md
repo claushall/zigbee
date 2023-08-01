@@ -9,6 +9,6 @@ mlink:
 link: https://www.domadoo.fr/en/peripheriques/5930-danfoss-zigbee-30-ally-room-sensor-5715162289013.html
 link2: https://www.idealo.de/preisvergleich/Typ/5715162289013.html
 zigbeemodel: ['TS0201', '_TZ3000_mxzo5rhf']
-compatible: [deconz]
-deconz: 5855
+compatible: [deconz] [z2m]
+deconz: 5855 
 ---
